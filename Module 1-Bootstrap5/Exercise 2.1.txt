@@ -1,0 +1,3 @@
+- CSS: Contains stylesheets for layout and design.
+- JS: Includes Bootstrap's JavaScript plugins like modals, tooltips.
+- Icons: Bootstrap icon SVGs and fonts.

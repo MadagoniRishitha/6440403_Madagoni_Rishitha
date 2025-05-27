@@ -1,0 +1,5 @@
+<nav class="d-flex flex-column flex-md-row justify-content-between p-3 bg-light">
+  <a href="#" class="p-2">Home</a>
+  <a href="#" class="p-2">About</a>
+  <a href="#" class="p-2">Contact</a>
+</nav>

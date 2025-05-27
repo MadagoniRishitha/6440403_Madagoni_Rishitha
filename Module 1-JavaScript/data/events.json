@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Music Fest",
+    "category": "Music",
+    "date": "2025-07-15",
+    "availableSeats": 50,
+    "location": "Central Park"
+  },
+  {
+    "id": 2,
+    "name": "Tech Workshop",
+    "category": "Education",
+    "date": "2025-06-01",
+    "availableSeats": 0,
+    "location": "Library Hall"
+  },
+  {
+    "id": 3,
+    "name": "Local Farmers Market",
+    "category": "Food",
+    "date": "2025-08-10",
+    "availableSeats": 25,
+    "location": "Main Square"
+  }
+]
